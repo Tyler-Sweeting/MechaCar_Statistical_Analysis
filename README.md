@@ -2,6 +2,8 @@
 
 ## Linear Regression to Predict MPG
 
+<img width="605" alt="D1_lin_reg" src="https://user-images.githubusercontent.com/118485409/227642224-70898d45-8d33-4d2e-b6cf-b070c5ada46b.png">
+
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 There are two variables that provided a non-random amount of variance to the mpg values in the dataset. Those variables would be the vehicle_length and the ground_clearance. The P-Value of the vehicle-length is 2.60e-12 and the P-Value of the ground_clearance is 5.21e-08. The reaming three variables of vehicle_weight(P-Value = 0.0776), spoiler_angle(P-Value = 0.3069) and AWD(P-Value = 0.1852) do not have a non-random amount of variance to the cars overall MPG since all of their P-Values are greater than 0.05.
