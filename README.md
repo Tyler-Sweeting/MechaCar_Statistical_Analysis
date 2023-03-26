@@ -51,8 +51,13 @@ Lot 3 was again laggin behind. they had a very large unterval and their average 
 <img width="338" alt="Lot3_Ttest" src="https://user-images.githubusercontent.com/118485409/227792234-94ffb66a-1c58-4a32-94a1-7f588d49899b.png">
 
 ## Study Design: MechaCar vs Competition
+Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
 
 #### What metric or metrics are you going to test?
+A good metric to test would be engine size vs MPG of vehicles within the same class. We would need to solidify whoch vehicle details to include in the comparison to make for an accurate comparisson. We would also need to classify which style of drive train.
 #### What is the null hypothesis or alternative hypothesis?
+Our null hypothesis could be that the MPG is impacted by the engine size, while the alternative hypothesis is that there is no significant impact on MPG while comparing to competitor vehicles.
 #### What statistical test would you use to test the hypothesis? And why?
+Some options for a statistical test we could use would be a T-test, ANOVA test or a graphical visualization. We could test the standards set by the U.S Environmental Protection Agency. Stating that all-wheel drive should have a mpg of 30.70, while front-wheel drive should have a mpg of 34.62. Then compare the MechaCar vs the competition.
 #### What data is needed to run the statistical test?
+We would be able to get our data from a variety of ways. We could find data sources already available for free online, or we could even use some web scrapping. Some data that would be useful is the enigine size of the competitors, their MPG, their drive train and which class of vehicle they are.
