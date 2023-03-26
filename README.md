@@ -1,5 +1,12 @@
 # MechaCar_Statistical_Analysis
 
+## Overview
+Our job is to perfrom a statistical analysis on the MechaCar to find some production troubles. Our tasks are the following.
+* Linear Regression to Predict MPG
+* Summary Statistics on Suspension Coils
+* T-Tests on Suspension Coils
+* Study Design: MechaCar vs Competition
+
 ## Linear Regression to Predict MPG
 
 <img width="605" alt="D1_lin_reg" src="https://user-images.githubusercontent.com/118485409/227642224-70898d45-8d33-4d2e-b6cf-b070c5ada46b.png">
